@@ -1,6 +1,6 @@
 console.log("*** Tasks Day 4 ***");
 
-console.log("*** Withdrawal in multiples of 1000 ***")
+console.log("*** Withdrawal in multiples of 100 ***")
 let withdrawal = 550;
 let valid 
 if (withdrawal % 100 === 0) {
